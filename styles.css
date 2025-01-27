@@ -72,3 +72,9 @@ button:hover {
     color: #FF5722;
     margin-top: 20px;
 }
+
+@media (max-width: 640px) {
+    body {
+        padding: 40px;
+    }
+}
